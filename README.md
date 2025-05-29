@@ -1,21 +1,19 @@
 
-## Hello! Im ad0lle
+### Hello! Im ad0lle
 
-II’m currently a student at the University of Maryland, College Park, where I study Information Science and Philosophy. I’m especially interested in web development, creative coding, and building useful tools that solve real problems. Right now, I’m focused on learning front-end frameworks and exploring cloud deployment to enhance how I build and ship projects.
+I’m currently a student at the University of Maryland, College Park, studying Information Science and Philosophy. I’m passionate about web development, creative coding, and building tools that solve real problems. Right now, I’m focused on learning front-end frameworks and exploring cloud deployment — all to improve how I build and ship projects.
 
-I am passionate about artificial intelligence and love applying it creatively. Outside of tech, and ib love of dogs — they’re a big part of my life. My general mindset? .... 
+I also have a strong interest in artificial intelligence, especially in using it creatively.
+
+Outside of tech? I love dogs — they’re a big part of my life.
+As for my general mindset: always learning, always questioning.
 
 
-I feel a commitment to open source and free software comes from a belief that our current systems often exploit people’s lack of access to knowledge and their yearning for identity — treating both as commodities rather than rights.
+#### What I Make Here
 
+On this account, I share resources inspired by things I’ve learned in college. I believe education shouldn’t be an investment. Too often, institutions (mine included) use open-source materials while still trying to enforce traditional publishing control. That’s not openness — that’s branding.
 
-#### OH!... and... 
-####This is Important:
+It’s like hosting a free concert in the park, then suing someone for humming your song the next day. Mixed messages, right?
 
-You must know that:
-I am  a student; a work
-in process, not a PRO, un 
-like GitHub idealize about 
-me. However i still keep it 
-on I appricaiate any criticism
-profile because of the mere irony
+I believe a commitment to open source and free software comes from recognizing that today’s systems often exploit people’s lack of access to knowledge and their desire for identity — treating both as commodities, not rights.
+
