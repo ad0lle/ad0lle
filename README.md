@@ -1,5 +1,5 @@
 
-####Hello! Im ad0lle
+## Hello! Im ad0lle
 
 II’m currently a student at the University of Maryland, College Park, where I study Information Science and Philosophy. I’m especially interested in web development, creative coding, and building useful tools that solve real problems. Right now, I’m focused on learning front-end frameworks and exploring cloud deployment to enhance how I build and ship projects.
 
