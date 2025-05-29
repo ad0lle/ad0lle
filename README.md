@@ -7,3 +7,15 @@ I am passionate about artificial intelligence and love applying it creatively. O
 
 
 I feel a commitment to open source and free software comes from a belief that our current systems often exploit people’s lack of access to knowledge and their yearning for identity — treating both as commodities rather than rights.
+
+
+#### OH!... and... 
+####This is Important:
+
+You must know that:
+I am  a student; a work
+in process, not a PRO, un 
+like GitHub idealize about 
+me. However i still keep it 
+on I appricaiate any criticism
+profile because of the mere irony
